@@ -18,10 +18,10 @@ By repurposing the June Dataframe, data for the month of December in multiple ye
 #
 ## Results:
 #
-Three key differences between the weather in June and December
+Three key points about the temperatures in Oahu, Hawaii in the months of June and December over several years:
    * The mean temperature in June was 75, while the mean temperature in December was 71, fairly close.
    * The high temperature in June was 85, while the high temperature in December was 83, also fairly close.
-   * The low temperature in June was 64, while the low temperature in December was 56.  On either of these lowest temperature days, it would be unlikely anyone would want to buy ice cream after surfing, just too cold. 
+   * The low temperature in June was 64, while the low temperature in December was 56.  On either of these coldest temperature days, it would be unlikely anyone would want to buy ice cream after surfing, just too cold. 
 #  
 ## Summary:
 #
