@@ -9,15 +9,15 @@ Summary Statistics for June
 By using Python, Pandas functions, and SQLAlchemy, data for the month of June in multiple years was extracted and prepped from the Measurements table in the hawaii.sqlite database.  Summary statistics were generated from the June Dataframe and are shown below.
 #
 ![Junestats](https://github.com/jcsargis00/surfs_up/blob/main/junestats.PNG)
-$
+#
 Summary Statistics for December
-$
+#
 By repurposing the June Dataframe, data for the month of December in multiple years was extracted and prepped from the Measurements table in the hawaii.sqlite database.  Summary statistics were generated from the June Dataframe and are shown below.
-$
+#
 ![Decstats](https://github.com/jcsargis00/surfs_up/blob/main/decstats.PNG)
-$
+#
 ## Results:
-$
+#
 Three key differences between the weather in June and December
    * The mean temperature in June was 75, while the mean temperature in December was 71, fairly close.
    * The high temperature in June was 85, while the high temperature in December was 83, also fairly close.
