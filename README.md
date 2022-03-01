@@ -12,7 +12,7 @@ By using Python, Pandas functions, and SQLAlchemy, data for the month of June in
 #
 Summary Statistics for December
 #
-By repurposing the June Dataframe, data for the month of December in multiple years was extracted and prepped from the Measurements table in the hawaii.sqlite database.  Summary statistics were generated from the June Dataframe and are shown below.
+By repurposing the June Dataframe, data for the month of December in multiple years was extracted and prepped from the Measurements table in the hawaii.sqlite database.  Summary statistics were generated from the December Dataframe and are shown below.
 #
 ![Decstats](https://github.com/jcsargis00/surfs_up/blob/main/decstats.PNG)
 #
